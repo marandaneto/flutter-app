@@ -1,1 +1,0 @@
-enum ConnectivityState { initial, backendAccessible, backendUnreachable }
